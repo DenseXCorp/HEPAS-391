@@ -1,0 +1,12 @@
+# DenseX Corporation – Source Code Security
+*.ipynb
+.ipynb_checkpoints/
+venv/
+densex_env/
+__pycache__/
+*.pyc
+.DS_Store
+
+# CRITICAL: Isolate Academic Applied Research from Corporate Infrastructure
+University_Defense_Assets/
+densex_architect.py
